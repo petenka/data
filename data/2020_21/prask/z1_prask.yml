@@ -3,7 +3,7 @@ type: seminar
 sciences:
   - inf
 date:
-  start: "2021-25-01"
+  start: "2021-01-25"
 contestants:
   min: zs7
   max: ss1
