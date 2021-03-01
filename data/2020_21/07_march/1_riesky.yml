@@ -1,9 +1,9 @@
-name: 1. séria Riešky
+name: 1. kola Riešky
 type: seminar
 sciences:
   - mat
 date:
-  start: "2021-03-01"
+  start: "2021-03-08"
 contestants:
   min: zs5
   max: zs9
