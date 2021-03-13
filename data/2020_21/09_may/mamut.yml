@@ -3,12 +3,14 @@ type: sutaz
 sciences:
   - mat
 date:
-  start: "2020-05-28"
+  start: "2021-05-28"
 contestants:
   min: zs4
   max: zs6
 places:
   - TBD
+volatile: true
+cancelled: false
 organizers:
   - strom
 link: https://malynar.strom.sk/sk/mamut/

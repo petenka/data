@@ -1,0 +1,17 @@
+name: TMM - Tábor mladých matematikov
+type: tabor
+sciences:
+  - mat
+date:
+  start: "2021-08-23"
+  end: "2021-08-30"
+contestants:
+  min: zs6
+  max: ss1
+places:
+  - Detvianska Huta
+volatile: true
+cancelled: false
+organizers:
+  - strom
+link: https://seminar.strom.sk/tmm

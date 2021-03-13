@@ -1,0 +1,17 @@
+name: STROM sústredenie
+type: sustredenie
+sciences:
+  - mat
+date:
+  start: "2021-08-15"
+  end: "2021-08-20"
+contestants:
+  min: ss1
+  max: ss4
+places:
+  - Danišovce
+volatile: true
+cancelled: false
+organizers:
+  - strom
+link: https://seminar.strom.sk/
