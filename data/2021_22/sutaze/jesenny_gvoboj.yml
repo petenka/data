@@ -1,0 +1,14 @@
+name: Jesenný GVOBOJ
+type: sutaz
+sciences:
+  - mat
+date:
+  start: "2021-11-12"
+contestants:
+  min: zs7
+  max: zs9
+places:
+  - Žilinký kraj
+organizers:
+  - "Gymnázium Veľká okružná Žilina"
+description: GVOboj je matematická súťaž pre žiakov siedmeho až deviateho ročníka základných škôl. Ukážeme Vám, že matematika dokáže byť zábavná a tímová práca dôležitá!
