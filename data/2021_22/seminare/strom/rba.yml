@@ -1,0 +1,16 @@
+name: Robotický battle na Alejovej
+type: sutaz
+sciences:
+  - inf
+  - other
+date:
+  start: "2022-06-06"
+contestants:
+  min: zs1
+  max: ss4
+places:
+  - Gymnázium, Alejová 1, Košice
+volatile: true
+organizers:
+  - strom
+link: https://robotickybattle.sk/

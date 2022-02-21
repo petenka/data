@@ -1,0 +1,17 @@
+name: TMM - Tábor mladých matematikov
+type: tabor
+sciences:
+  - mat
+date:
+  start: "2022-08-12"
+  end: "2022-08-19"
+contestants:
+  min: zs6
+  max: ss1
+places:
+  - Chata Radzim pri obci Vyšná Slaná
+volatile: true
+cancelled: false
+organizers:
+  - strom
+link: https://seminar.strom.sk/tmm

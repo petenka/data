@@ -1,15 +1,16 @@
-name: STROM sústredenie
+name: STROM + Matik sústredenie
 type: sustredenie
 sciences:
   - mat
 date:
-  start: "2022-01-30"
-  end: "2022-02-04"
+  start: "2022-03-27"
+  end: "2022-04-01"
 contestants:
-  min: ss1
+  min: zs9
   max: ss4
 places:
-  - tbd
+  - CŠvP Bárka v Juskovej Voli
 organizers:
   - strom
+volatile: true
 link: https://seminar.strom.sk/

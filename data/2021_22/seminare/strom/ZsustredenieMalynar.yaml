@@ -1,15 +1,16 @@
-name: Malynár sústredenie
+name: Malynár + Matik sústredenie
 type: sustredenie
 sciences:
   - mat
 date:
-  start: "2022-01-23"
-  end: "2022-01-28"
+  start: "2022-03-20"
+  end: "2022-03-25"
 contestants:
   min: zs4
-  max: zs6
+  max: zs8
 places:
-  - tbd
+  - CŠvP Bárka v Juskovej Voli
 organizers:
   - strom
+volatile: true
 link: https://malynar.strom.sk/
