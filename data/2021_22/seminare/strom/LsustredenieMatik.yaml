@@ -3,13 +3,13 @@ type: sustredenie
 sciences:
   - mat
 date:
-  start: "2022-06-25"
+  start: "2022-06-24"
   end: "2022-06-29"
 contestants:
   min: zs7
   max: zs9
 places:
-  - tbd
+  - Chata mjr. Kukorelliho, Hermanovce nad Topľou
 organizers:
   - strom
 link: https://matik.strom.sk/
