@@ -93,15 +93,15 @@ name_doprogramovanie2 = {
 }
 
 i=0
-os.makedirs(f'data/{args.year}/seminare/trojsten/{args.seminar}', exist_ok=True)
+os.makedirs(f'../data/{args.year}/seminare/trojsten/{args.seminar}', exist_ok=True)
 for part in range(1, parts+1):
 	for r in range(1, rounds+1):
 		round = r
 		if r == 3 and args.seminar == 'SUSI':
 			round = "Outdoor"
-		with open(f'data/{args.year}/seminare/trojsten/{args.seminar}/{part}_{round}.yml', 'w', encoding='utf-8') as f:
+		with open(f'../data/{args.year}/seminare/trojsten/{args.seminar}/{part}_{round}.yml', 'w', encoding='utf-8') as f:
 				f.write(
-f"""name: {round}{"" if round == "Outdoor" else "."} kolo {"zimnej" if part == 1 else "letnej"} časti {"Suši" if args.seminar == "SUSI" else args.seminar}
+f"""name: {"Objavné" if round == "Outdoor" else f'{round}.'} kolo {"zimnej" if part == 1 else "letnej"} časti {"Suši" if args.seminar == "SUSI" else args.seminar}
 type: seminar
 sciences:
   - {sciences[args.seminar]}
@@ -118,9 +118,9 @@ info: "{susi_outdoor if round == "Outdoor" else info[args.seminar]}"
 link: https://{url[args.seminar]}.sk/
 """)
 		if args.seminar in info_doprogramovanie:
-			with open(f'data/{args.year}/seminare/trojsten/{args.seminar}/{part}_{round}_after1.yml', 'w', encoding='utf-8') as f:
+			with open(f'../data/{args.year}/seminare/trojsten/{args.seminar}/{part}_{round}_after1.yml', 'w', encoding='utf-8') as f:
 				f.write(
-f"""name: {name_doprogramovanie[args.seminar]} {round}{"" if round == "Outdoor" else "."} kola {"zimnej" if part == 1 else "letnej"} časti {"Suši" if args.seminar == "SUSI" else args.seminar}
+f"""name: {name_doprogramovanie[args.seminar]} {"Objavného" if round == "Outdoor" else f'{round}.'} kola {"zimnej" if part == 1 else "letnej"} časti {"Suši" if args.seminar == "SUSI" else args.seminar}
 type: seminar
 sciences:
   - {sciences[args.seminar]}
@@ -137,9 +137,9 @@ info: '{info_doprogramovanie[args.seminar]}'
 link: https://{url[args.seminar]}.sk/
 """)
 		if args.seminar in name_doprogramovanie2:
-			with open(f'data/{args.year}/seminare/trojsten/{args.seminar}/{part}_{round}_after2.yml', 'w', encoding='utf-8') as f:
+			with open(f'../data/{args.year}/seminare/trojsten/{args.seminar}/{part}_{round}_after2.yml', 'w', encoding='utf-8') as f:
 				f.write(
-f"""name: {name_doprogramovanie2[args.seminar]} {round}{"" if round == "Outdoor" else "."} kola {"zimnej" if part == 1 else "letnej"} časti {"Suši" if args.seminar == "SUSI" else args.seminar}
+f"""name: {name_doprogramovanie2[args.seminar]} {"Objavného" if round == "Outdoor" else f'{round}.'} kola {"zimnej" if part == 1 else "letnej"} časti {"Suši" if args.seminar == "SUSI" else args.seminar}
 type: seminar
 sciences:
   - {sciences[args.seminar]}

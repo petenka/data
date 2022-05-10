@@ -1,9 +1,9 @@
-name: Outdoor kolo zimnej časti Suši
+name: Objavné kolo zimnej časti Suši
 type: seminar
 sciences:
   - other
 date:
-  start: "2022-12-05"
+  start: "2022-12-16"
 contestants:
   min: ss1
   max: null

@@ -3,7 +3,7 @@ type: seminar
 sciences:
   - other
 date:
-  start: "2022-10-10"
+  start: "2022-10-17"
 contestants:
   min: ss1
   max: null

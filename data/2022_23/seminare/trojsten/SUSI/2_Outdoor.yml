@@ -1,9 +1,9 @@
-name: Outdoor kolo letnej časti Suši
+name: Objavné kolo letnej časti Suši
 type: seminar
 sciences:
   - other
 date:
-  start: "2023-05-22"
+  start: "2023-06-02"
 contestants:
   min: ss1
   max: null
