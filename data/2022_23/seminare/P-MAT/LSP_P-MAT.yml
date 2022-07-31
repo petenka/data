@@ -31,4 +31,4 @@ contestants:
   # Mozne hodnoty: zs1, zs2, ..., zs9; ss1, ..., ss4
   min: zs5
   # Maximalny rocnik, ktory sa moze zapojit.
-  max: zs9
+  max: null
