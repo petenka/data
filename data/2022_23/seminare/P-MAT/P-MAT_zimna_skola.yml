@@ -1,5 +1,5 @@
 # Nazov udalosti
-name: Letná škola vedúcich P-MATu
+name: Zimná škola Pikomatu
 
 # Vedne obory (1+) pre danu akciu. Mozne hodnoty: mat, fyz, inf a other.
 sciences:
@@ -11,8 +11,8 @@ type: tabor
 # Informacie k datumom.
 date:
   # Zaciatok udalosti alebo datum udalosti, ak trva iba den. Format YYYY-MM-DD
-  start: "2023-08-20"
-  end: "2023-08-27"
+  start: "2023-03-29"
+  end: "2023-04-02"
 
 # nazov organizatora alebo zoznam organizatorov
 organizers:
