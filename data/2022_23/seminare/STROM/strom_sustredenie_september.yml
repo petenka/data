@@ -6,7 +6,7 @@ sciences:
   - mat
 
 # Typ akcie. Moznosti: sutaz, seminar, sustredenie, vikendovka, tabor, olympiada alebo prednasky
-type: seminar
+type: sustredenie
 
 # Informacie k datumom.
 date:
@@ -22,7 +22,7 @@ link: https://seminar.strom.sk/sk/prispevky/
 
 # Miesto, alebo zoznam miest, kde sa akcia kona
 places:
-  - TBD
+  - RZ Zelený Breh
 
 # Informacie o sutaziacich.
 contestants:
