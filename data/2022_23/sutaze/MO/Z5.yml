@@ -1,5 +1,5 @@
 # Nazov udalosti
-name: Matematická olympiáda kategórie B, C, krajské kolo
+name: Matematická olympiáda kategória Z5, domáce kolo, 1.časť
 
 # Vedne obory (1+) pre danu akciu. Mozne hodnoty: mat, fyz, inf a other.
 sciences:
@@ -11,11 +11,11 @@ type: olympiada
 # Informacie k datumom.
 date:
   # Zaciatok udalosti alebo datum udalosti, ak trva iba den. Format YYYY-MM-DD
-  start: "2023-4-4"
+  start: "2022-11-16"
 
 # nazov organizatora alebo zoznam organizatorov
 organizers:
-  - iuventa
+  - nivam
   
 # Odkaz na stranku pre viac info (optional)
 link: https://skmo.sk/
@@ -30,4 +30,4 @@ contestants:
   # Mozne hodnoty: zs1, zs2, ..., zs9; ss1, ..., ss4
   min: null
   # Maximalny rocnik, ktory sa moze zapojit.
-  max: ss3
+  max: zs5

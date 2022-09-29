@@ -1,9 +1,9 @@
 # Nazov udalosti
-name: Matematická olympiáda kategórie B,C, domáce kolo
+name: Fyzikálna olympiáda kategória A, celoštátne kolo
 
 # Vedne obory (1+) pre danu akciu. Mozne hodnoty: mat, fyz, inf a other.
 sciences:
-  - mat
+  - fyz
 
 # Typ akcie. Moznosti: sutaz, seminar, sustredenie, vikendovka, tabor, olympiada alebo prednasky
 type: olympiada
@@ -11,18 +11,19 @@ type: olympiada
 # Informacie k datumom.
 date:
   # Zaciatok udalosti alebo datum udalosti, ak trva iba den. Format YYYY-MM-DD
-  start: "2023-1-16"
+  start: "2023-4-13"
+  end: "2023-4-16"
 
 # nazov organizatora alebo zoznam organizatorov
 organizers:
-  - iuventa
+  - nivam
   
 # Odkaz na stranku pre viac info (optional)
-link: https://skmo.sk/
+link: https://www.iuventa.sk/olympiady/ucitel-organizator/fyzikalna-olympiada/
 
 # Miesto, alebo zoznam miest, kde sa akcia kona
 places:
-  - Celé Slovensko
+  - TBD
 
 # Informacie o sutaziacich.
 contestants:
@@ -30,4 +31,4 @@ contestants:
   # Mozne hodnoty: zs1, zs2, ..., zs9; ss1, ..., ss4
   min: null
   # Maximalny rocnik, ktory sa moze zapojit.
-  max: ss3
+  max: ss4
