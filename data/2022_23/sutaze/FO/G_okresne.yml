@@ -29,6 +29,6 @@ places:
 contestants:
   # Minimalny rocnik, ktory sa moze zapojit.
   # Mozne hodnoty: zs1, zs2, ..., zs9; ss1, ..., ss4
-  min: null
+  min: zs7
   # Maximalny rocnik, ktory sa moze zapojit.
   max: zs7
