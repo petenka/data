@@ -3,13 +3,14 @@ sciences:
   - mat
 type: sustredenie
 date:
-  start: "2023-09-09"
-  end: "2023-09-16"
+  start: "2024-01-19"
+  end: "2024-01-26"
 organizers:
   - trojsten
 link: https://kms.sk/akcie/sustredenia/
 places:
-  - Kubrica, Trenčín
+  - TBD
+info: "Možno to bude beta."
 contestants:
   min: zs9
   max: ss2

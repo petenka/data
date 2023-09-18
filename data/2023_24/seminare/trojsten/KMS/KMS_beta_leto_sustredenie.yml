@@ -3,13 +3,14 @@ sciences:
   - mat
 type: sustredenie
 date:
-  start: "2023-06-11"
-  end: "2023-06-18"
+  start: "2024-06-15"
+  end: "2024-06-22"
 organizers:
   - trojsten
 link: https://kms.sk/akcie/sustredenia/
 places:
-  - Chata Július, Vyšná Slaná
+  - TBD
+info: "Možno to bude FKS."
 contestants:
   min: ss2
   max: ss4
