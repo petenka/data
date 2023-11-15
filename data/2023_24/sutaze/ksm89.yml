@@ -1,0 +1,16 @@
+name: 1. domáce kolo KSM_8-9
+type: seminar
+sciences:
+  - mat
+date:
+  start: "2023-11-14"
+  end: "2023-12-04"
+contestants:
+  min: zs8
+  max: zs9
+places:
+  - online
+organizers:
+  - gjh
+info: Súťaž začína tradične na  Deň otvorených dverí na GJH. Na súťaž sa nemusíte prihlasovať, stačí ak odošlete poštou riešenia svojich príkladov. Prvé dve kolá - domáce – prebiehajú korešpondenčnou formou. Súťaž je zadarmo.
+link: https://gjh.sk/aktivity-na-skole/ksm
